@@ -12,6 +12,8 @@ touch: this creates a file of any simple type if you want to write code
 /*
 node: node --version: tells you which version of node you have installed
 
+node is a an open sourced environment for executing your javascript code outside of the browser
+
 */
 
 /*
